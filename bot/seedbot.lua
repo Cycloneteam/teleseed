@@ -216,6 +216,8 @@ function create_config( )
     "arabic_lock",
     "set",
     "Plugins",
+    "pv",
+    "sticker_lock",
     "echo"
     "get",
     "broadcast",
@@ -248,6 +250,7 @@ Vamptacus
 Our channels
 @teleseedch [English]
 ]],
+help_text_realm = [[
     help_text = [[لیست دستورات↙
 برای کیک کردن فرد از گروه از دستور🔽 
 [!/]kick (username|id)
