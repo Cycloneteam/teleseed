@@ -5,63 +5,63 @@ function run(msg, matches)
 برای کیک بن انبن فرد در چت خصوصی‌ ربات🔽
 /owners [group_id] [kick،ban‌،unban] user_id
 مثال🔽
-/owners 1234567 kick 1234567
+[!/]owners 1234567 kick 1234567
 ======================
 برای پاک کردن‌ اعضا،قوانین،مدیرها و درباره گروه 🔽
-/owners [group_id] clean [modlist،rules،about]
+[!/]owners [group_id] clean [modlist،rules،about]
 مثال🔽
-/owners 1234567 clean modlist
+[!/]owners 1234567 clean modlist
 ======================
 برای تنظیم لیمیت اسپم در پیوی ربات🔽
-/owners [group_id] setflood [لیمیت اسپم]
+[!/]owners [group_id] setflood [لیمیت اسپم]
 مثال 🔽
-/owners 1234567 setflood‌ 15
+{!/]owners 1234567 setflood‌ 15
 
 ======================
 برای قفل عکس، نام در پیوی 🔽
-/owners [group_id] lock [member‌، name]
+[!/]owners [group_id] lock [member‌، name]
 مثال🔽
-/owners 1234567 lock member
+[!/]owners 1234567 lock member
 ======================
 برای برداشتن قفل نام و اعضای گروه در پیوی ربات 🔽
-/owner [group_id] unlock [member|name]
+[!/]owner [group_id] unlock [member|name]
 مثال🔽
-/owners 1234567 unlock name
+[!/]owners 1234567 unlock name
 ======================
 برای دریافت و گروه در پیوی🔽
-/owners [group_id] get link
+[!/]owners [group_id] get link
 مثال🔽
-/owners 1234567 get link
+[!/]owners 1234567 get link
 ======================
 برای تغیر یا دریافت لینک‌ جدید گروه در پیوی ربات 🔽
-/owners [group_id] new link
+[!/]owners [group_id] new link
 مثال🔽
-/owners 1234567 new link
+[!/]owners 1234567 new link
 ======================
 برای تغییر نام گروه در پیوی ربات 🔽
-/changename [group_id] [name]
+[!/]changename [group_id] [name]
 مثال🔽
-/changename 123456789 group
+[!/]changename 123456789 group
 ======================
 برای تغیر قوانین گروه در پیوی ربات 🔽
-/changrules [group_id] [rules]
+[!/]changrules [group_id] [rules]
 مثال🔽
-/changrules 123456789 rules !
+[!/]changrules 123456789 rules !
 ======================
 برای تغیر توضیحات گروه در پیوی ربات 🔽
-/changeabout [group_id] [about]
+[!/]changeabout [group_id] [about]
 مثال🔽
-/changeabout 123456789 about !
+[!/]changeabout 123456789 about !
 ======================
 برای  دریافت لاگ گروه در پیوی ربات🔽
-/loggroup [group_id]
+[!/]loggroup [group_id]
 مثال🔽
-/loggroup 123456789
+[!/]loggroup 123456789
 ======================
 برای عضو شدن در گروه ها در صورت داشتن کد گروه، کد را ده بار در پیوی ربات به صورت زیر بفرستید.🔽
-/join [group_id]
+[!/]join [group_id]
 مثال 🔽
-/join 1234567
+[!/]join 1234567
 ======================
 🚫توجه🚫: تمامی دستورات علاوه بر / با ! هم کار میکنند.
 ======================
