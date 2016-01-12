@@ -231,24 +231,9 @@ function create_config( )
     sudo_users = {147509695},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
+    about_text = [[serren_bot v1
 An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
+made by @amir_sereen
 ]],
 help_text_realm = [[لیست دستورات ریلم ↙
 برای ساخت گروه🔽
