@@ -215,6 +215,8 @@ function create_config( )
     "owners",
     "arabic_lock",
     "set",
+    "linlpv",
+    "channels",
     "plugins",
     "pv",
     "sticker_lock",
