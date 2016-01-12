@@ -215,10 +215,10 @@ function create_config( )
     "owners",
     "arabic_lock",
     "set",
-    "Plugins",
+    "plugins",
     "pv",
     "sticker_lock",
-    "echo"
+    "echo",
     "get",
     "broadcast",
     "download_media",
